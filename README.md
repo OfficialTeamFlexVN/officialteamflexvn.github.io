@@ -10,4 +10,3 @@ Hoặc: https://www.facebook.com/nhanphamne
 
 Gmail: b0ms1rikun2@gmail.com
 
-Donate Me at Packix: b0ms1rikun2@gmail.com
