@@ -1671,9 +1671,8 @@ portfolio
   }
 }
 .circle{
-  border: 2px solid white;
+  position: center;
   border-radius: 50%;
-  background: rgba(0,0,0,0);
   color: black;
   width: 150px;
   height: 150px;
